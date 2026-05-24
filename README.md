@@ -1,4 +1,4 @@
-# Analise de CRM e Funil de Vendas com SQL 📊
+# Analise de CRM e Funil de Vendas com SQL 
 
 Esse projeto foi feito pra praticar os meus conhecimentos de SQL simulando o banco de dados de um sistema de CRM. Como estou estudando faz 8 meses, decidi criar um funil de vendas para analisar as taxas de conversão de leads e performance.
 
